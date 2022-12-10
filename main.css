@@ -560,7 +560,7 @@ input[type="submit"]:hover{
         max-width: 1200px;
         left: 2em;
     }
-    .home-text{
+    /* .home-text{
         max-width: 1100px;
     }
     h2{
@@ -568,7 +568,7 @@ input[type="submit"]:hover{
     }
     h3{
         font-size: 8em;
-    }
+    } */
     .contact-cont {
         grid-gap: 20em;
     }
@@ -609,7 +609,7 @@ input[type="submit"]:hover{
     .h{
         font-size: 7em;
     }
-    .home-text{
+    /* .home-text{
         width: 900px;
     }
     h2{
@@ -617,7 +617,7 @@ input[type="submit"]:hover{
     }
     h3{
         font-size: 8em;
-    }
+    } */
     .p-text{
         font-size: 1.8em;
     }
@@ -665,6 +665,9 @@ input[type="submit"]:hover{
     }
     .serv-cont{
         margin-top: 1.5em;
+    }
+    .h{
+        font-size: 6.5em;
     }
     .service-head {
         margin-top: -64rem;
