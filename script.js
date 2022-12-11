@@ -1,9 +1,11 @@
 var menu = document.querySelector(".menu-icon");
 var nav = document.querySelector(".navbar");
+
 menu.onclick = () => {
     menu.classList.toggle('cross')
     nav.classList.toggle('open-nav')
 };
+// close navbar
 
 var head = document.querySelector("header");
 window.addEventListener('scroll', () => {
